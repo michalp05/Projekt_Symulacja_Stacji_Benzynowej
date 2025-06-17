@@ -42,7 +42,7 @@ public class Statystyki {
         System.out.println("===> STATYSTYKI <===");
         System.out.println("Liczba klientów: " + liczbaKlientow);
         System.out.println("Zatankowane paliwo: " + sumaPaliwa + " L");
-        System.out.println("Łączny przychód: " + przychod + " PLN");
+        System.out.println("Lączny przychód: " + przychod + " PLN");
     }
 
     /**
@@ -54,7 +54,7 @@ public class Statystyki {
             writer.println("===> STATYSTYKI <===");
             writer.println("Liczba klientów: " + liczbaKlientow);
             writer.println("Zatankowane paliwo: " + sumaPaliwa + " L");
-            writer.println("Łączny przychód: " + przychod + " PLN");
+            writer.println("Lączny przychód: " + przychod + " PLN");
             System.out.println("Statystyki zapisano do pliku: " + Plik);
         } catch (IOException e) {
             System.err.println("Błąd zapisu statystyk do pliku: " + e.getMessage());

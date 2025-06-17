@@ -1,4 +1,4 @@
 ===> STATYSTYKI <===
-Liczba klientów: 6
-Zatankowane paliwo: 617.1289214765685 L
-Łączny przychód: 3684.839988426077 PLN
+Liczba klientów: 7
+Zatankowane paliwo: 979.8753935739827 L
+Łączny przychód: 5855.461994023337 PLN
